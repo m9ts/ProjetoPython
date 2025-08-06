@@ -1,5 +1,5 @@
-from cliente import Cliente
-from conta import Conta
+from Cliente import Cliente
+from Conta import Conta
 
 print("Testando o projeto")
 
