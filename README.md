@@ -42,12 +42,15 @@ Siga os passos abaixo para rodar o projeto localmente:
 
 ```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
+````
 
 2. **Acesse a pasta do projeto:**
 
 ```bash
 cd seu-repositorio
+````
 
 3. **Execute o script principal:**
+
 ```bash
 python Main.py
