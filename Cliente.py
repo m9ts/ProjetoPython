@@ -3,7 +3,6 @@ class Cliente:
         self._nome = nome
         self._telefone = telefone
 
-
     @property
     def nome(self):
         return self._nome
@@ -19,7 +18,6 @@ class Cliente:
     @telefone.setter
     def telefone(self, novo_telefone):
         self._telefone = novo_telefone
-
 
 
 # Método Get
